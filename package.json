@@ -1,0 +1,24 @@
+{
+  "name": "crawler-book",
+  "version": "1.0.0",
+  "description": "crawler for book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisball/crawler-book.git"
+  },
+  "keywords": [
+    "crawler",
+    "book",
+    "js"
+  ],
+  "author": "ft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisisball/crawler-book/issues"
+  },
+  "homepage": "https://github.com/thisisball/crawler-book#readme"
+}
